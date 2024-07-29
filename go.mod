@@ -1,2 +1,3 @@
-module github.com/Smir7/12-sprint-Actions
+module example.com/mod
+
 go 1.21
