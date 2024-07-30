@@ -1,3 +1,3 @@
-module example.com/mod
+module github.com/Smir7/12-sprint-actions
 
-go 1.21
+go 1.20
